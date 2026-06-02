@@ -4,7 +4,7 @@
 
 # Folio
 
-**Give your project folders custom icons and colors — automatically.**
+**Give your project folders custom icons and colors.**
 
 A native macOS menu-bar app that applies custom icons and colors to your folders based on rules and rule sets you define, keeps a reusable icon library, and remembers every change it makes.
 
@@ -105,7 +105,7 @@ App and folder icons by **[Freepik](https://www.freepik.com)** from **[Flaticon]
 
 ## Support
 
-If Folio is useful to you, consider buying me a coffee — it helps keep the project going. ❤️
+If Folio is useful to you, consider buying supporting me — it helps keep the project going. <3
 
 <a href="https://paypal.me/ramezehab" target="_blank">
   <img src="https://img.shields.io/badge/Support%20via-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Support via PayPal" />
