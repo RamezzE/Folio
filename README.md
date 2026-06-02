@@ -101,7 +101,7 @@ The in-app updater reads `https://api.github.com/repos/<owner>/<repo>/releases/l
 
 ## Attribution
 
-App and folder icons by **[Freepik](https://www.freepik.com)** from **[Flaticon](https://www.flaticon.com)**.
+Some icons are by **[Freepik](https://www.freepik.com)** from **[Flaticon](https://www.flaticon.com)**.
 
 ## Support
 
